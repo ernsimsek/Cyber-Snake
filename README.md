@@ -116,3 +116,4 @@ cyber-snake/
 
 This project is open source. Add an [MIT License](https://choosealicense.com/licenses/mit/) file if you want others to use it freely with attribution.
 
+<img width="1919" height="881" alt="Cyber-Snake" src="https://github.com/user-attachments/assets/55f0feff-f663-43a0-a758-60aa5b3472b2" />
