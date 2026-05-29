@@ -4,17 +4,6 @@ A modern, cyberpunk-themed Snake game built with **Next.js**, **TypeScript**, an
 
 ---
 
-## Preview
-
-<!-- Replace with your own screenshot after pushing to GitHub -->
-<!-- ![Cyber Snake gameplay](./docs/screenshot.png) -->
-
-Add a screenshot to `docs/screenshot.png` and uncomment the line above for a nicer repo page.
-
-**Live demo:** _Deploy to Vercel and paste your URL here._
-
----
-
 ## Features
 
 | Category | Details |
