@@ -112,15 +112,6 @@ cyber-snake/
 
 ---
 
-## Roadmap ideas
-
-- [ ] Persist leaderboard & high score in `localStorage`
-- [ ] Upgrade Next.js to latest patched release
-- [ ] PWA / installable web app
-- [ ] Touch-friendly on-screen D-pad
-
----
-
 ## License
 
 This project is open source. Add an [MIT License](https://choosealicense.com/licenses/mit/) file if you want others to use it freely with attribution.
