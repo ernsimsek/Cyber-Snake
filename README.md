@@ -134,34 +134,6 @@ cyber-snake/
 └── types/               # Shared TypeScript types
 ```
 
----
-
-## Deploy to GitHub & Vercel
-
-### Push to GitHub
-
-```bash
-git init
-git add .
-git commit -m "Initial commit: Cyber Snake"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/cyber-snake.git
-git push -u origin main
-```
-
-Create the empty repository on GitHub first, then replace `YOUR_USERNAME` with your account name.
-
-### Deploy on Vercel (recommended)
-
-1. Go to [vercel.com](https://vercel.com) and sign in with GitHub.
-2. **Add New Project** → import `cyber-snake`.
-3. Framework preset: **Next.js** (auto-detected).
-4. Click **Deploy**.
-
-No extra environment variables are required for a standard deployment.
-
----
-
 ## Scripts
 
 | Command | Description |
