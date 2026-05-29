@@ -136,10 +136,3 @@ cyber-snake/
 
 This project is open source. Add an [MIT License](https://choosealicense.com/licenses/mit/) file if you want others to use it freely with attribution.
 
----
-
-## Author
-
-**Your Name** — replace with your GitHub profile link after publishing.
-
-If this project helped you, consider giving the repo a star on GitHub.
