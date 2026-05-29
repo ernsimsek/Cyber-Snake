@@ -3,8 +3,8 @@
 import { useEffect, useRef, useCallback } from "react";
 
 export function useGameLoop(callback: (dt: number) => void, running: boolean) {
-  const requestRef = useRef<number>();
-  const previousTimeRef = useRef<number>();
+  const requestRef = useRef<number | undefined>(undefined);
+  const previousTimeRef = useRef<number | undefined>(undefined);
   const callbackRef = useRef(callback);
 
   callbackRef.current = callback;
