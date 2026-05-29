@@ -68,13 +68,6 @@ cd cyber-snake
 npm install
 ```
 
-If you see network errors (`ECONNRESET`), retry the command or increase the timeout:
-
-```bash
-npm config set fetch-timeout 300000
-npm install
-```
-
 ### 3. Run the development server
 
 ```bash
