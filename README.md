@@ -2,8 +2,6 @@
 
 A modern, cyberpunk-themed Snake game built with **Next.js**, **TypeScript**, and the **Canvas API**. Play in the browser with neon visuals, particle effects, combo scoring, and a full HUD — on desktop or mobile.
 
-> Türkçe: Klasik yılan oyununun neon/cyberpunk temalı, tarayıcıda çalışan bir versiyonu. Kurulum ve yayınlama adımları aşağıda.
-
 ---
 
 ## Preview
